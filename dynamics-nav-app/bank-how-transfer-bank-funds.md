@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: en-gb
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>How to: Transfer Bank Funds
-You may sometimes need to transfer an amount from one bank account to another. To do this, you must post the a transaction in the general journal. The task varies depending on whether the bank accounts use the same currency or different currencies.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="165d9-102">How to: Transfer Bank Funds</span><span class="sxs-lookup"><span data-stu-id="165d9-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="165d9-103">You may sometimes need to transfer an amount from one bank account to another.</span><span class="sxs-lookup"><span data-stu-id="165d9-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="165d9-104">To do this, you must post the a transaction in the general journal.</span><span class="sxs-lookup"><span data-stu-id="165d9-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="165d9-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span><span class="sxs-lookup"><span data-stu-id="165d9-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>To post a transfer between bank accounts with the same currency code
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.
-2. On a journal line, fill in the **Posting Date** and **Document No.** fields.
-3. In the **Account Type** field, select **Bank Account**.
-4. In the **Account No.** field, select the bank from which you want to transfer the funds.
-5. In the **Amount** field, enter the amount to be transferred.
-6. In the **Bal. Account Type** field, select **Bank Account**.
-7. In the **Bal. Account No.** field, select the bank account to which you want to transfer the funds.
-8. Post the journal.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="165d9-106">To post a transfer between bank accounts with the same currency code</span><span class="sxs-lookup"><span data-stu-id="165d9-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="165d9-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="165d9-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="165d9-108">On a journal line, fill in the **Posting Date** and **Document No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="165d9-109">fields.</span><span class="sxs-lookup"><span data-stu-id="165d9-109">fields.</span></span>
+3. <span data-ttu-id="165d9-110">In the **Account Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="165d9-111">In the **Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-111">In the **Account No.**</span></span> <span data-ttu-id="165d9-112">field, select the bank from which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="165d9-113">In the **Amount** field, enter the amount to be transferred.</span><span class="sxs-lookup"><span data-stu-id="165d9-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="165d9-114">In the **Bal. Account Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="165d9-115">In the **Bal. Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="165d9-116">field, select the bank account to which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="165d9-117">Post the journal.</span><span class="sxs-lookup"><span data-stu-id="165d9-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>To post a transfer between bank accounts with different currency codes
-To transfer funds between bank accounts that use different currencies, you must post two general journal lines.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="165d9-118">To post a transfer between bank accounts with different currency codes</span><span class="sxs-lookup"><span data-stu-id="165d9-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="165d9-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span><span class="sxs-lookup"><span data-stu-id="165d9-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.
-2. Create two journal lines, and fill in the **Posting Date** and **Document No.** fields.
-3. On the first journal line, in the **Type** field, select **Bank Account**.
-4. In the **Account No.** field, select the bank account from which you want to transfer the funds.
-5. In the **Amount** field, enter the amount in the currency of the bank account. Enter credit amounts with a minus sign. Enter debit amounts without a minus sign.
-6. In the **Bal. Account Type** field, select **Bank Account**.
-7. In the **Bal. Account No.** field, select the bank account to which you want to transfer the funds.
-8. On the second journal line, in the **Type** field, select **Bank Account**.
-9. In the **Account No.** field, select the bank account to which you want to transfer the funds.
-10. In the **Amount** field, enter the amount in the currency of the bank account. Enter credit amounts with a minus sign. Enter debit amounts without a minus sign.
-11. In the **Bal. Account Type** field, select **Bank Account**.  
-12. In the **Bal. Account No.** field, select the bank account from which you want to transfer the funds.
+1. <span data-ttu-id="165d9-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="165d9-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="165d9-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="165d9-122">fields.</span><span class="sxs-lookup"><span data-stu-id="165d9-122">fields.</span></span>
+3. <span data-ttu-id="165d9-123">On the first journal line, in the **Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="165d9-124">In the **Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-124">In the **Account No.**</span></span> <span data-ttu-id="165d9-125">field, select the bank account from which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="165d9-126">In the **Amount** field, enter the amount in the currency of the bank account.</span><span class="sxs-lookup"><span data-stu-id="165d9-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="165d9-127">Enter credit amounts with a minus sign.</span><span class="sxs-lookup"><span data-stu-id="165d9-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="165d9-128">Enter debit amounts without a minus sign.</span><span class="sxs-lookup"><span data-stu-id="165d9-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="165d9-129">In the **Bal. Account Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="165d9-130">In the **Bal. Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="165d9-131">field, select the bank account to which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="165d9-132">On the second journal line, in the **Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="165d9-133">In the **Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-133">In the **Account No.**</span></span> <span data-ttu-id="165d9-134">field, select the bank account to which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="165d9-135">In the **Amount** field, enter the amount in the currency of the bank account.</span><span class="sxs-lookup"><span data-stu-id="165d9-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="165d9-136">Enter credit amounts with a minus sign.</span><span class="sxs-lookup"><span data-stu-id="165d9-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="165d9-137">Enter debit amounts without a minus sign.</span><span class="sxs-lookup"><span data-stu-id="165d9-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="165d9-138">In the **Bal. Account Type** field, select **Bank Account**.</span><span class="sxs-lookup"><span data-stu-id="165d9-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="165d9-139">In the **Bal. Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="165d9-140">field, select the bank account from which you want to transfer the funds.</span><span class="sxs-lookup"><span data-stu-id="165d9-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss. Enter **G/L Account** in the **Account Type** field. Enter the G/L account number for exchange rate gain or loss in the **Account No.** field. Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.
-13. Post the journal.
+    <span data-ttu-id="165d9-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span><span class="sxs-lookup"><span data-stu-id="165d9-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="165d9-142">Enter **G/L Account** in the **Account Type** field.</span><span class="sxs-lookup"><span data-stu-id="165d9-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="165d9-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span><span class="sxs-lookup"><span data-stu-id="165d9-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="165d9-144">field.</span><span class="sxs-lookup"><span data-stu-id="165d9-144">field.</span></span> <span data-ttu-id="165d9-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span><span class="sxs-lookup"><span data-stu-id="165d9-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="165d9-146">Post the journal.</span><span class="sxs-lookup"><span data-stu-id="165d9-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>See Also  
-[Manage Bank Accounts](bank-manage-bank-accounts.md)  
-[Set Up Banking](bank-setup-banking.md)  
-[Work with General Journals](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="165d9-147">See Also</span><span class="sxs-lookup"><span data-stu-id="165d9-147">See Also</span></span>  
+[<span data-ttu-id="165d9-148">Manage Bank Accounts</span><span class="sxs-lookup"><span data-stu-id="165d9-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="165d9-149">Set Up Banking</span><span class="sxs-lookup"><span data-stu-id="165d9-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="165d9-150">Work with General Journals</span><span class="sxs-lookup"><span data-stu-id="165d9-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

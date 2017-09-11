@@ -1,1 +1,1 @@
-CRONUS UK Ltd. demonstration database
+<span data-ttu-id="42c17-101">CRONUS UK Ltd.</span><span class="sxs-lookup"><span data-stu-id="42c17-101">CRONUS International Ltd.</span></span> <span data-ttu-id="42c17-102">demonstration database</span><span class="sxs-lookup"><span data-stu-id="42c17-102">demonstration database</span></span>
