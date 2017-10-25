@@ -1,1 +1,1 @@
-<span data-ttu-id="8df44-101">Microsoft Dynamics NAV Universal App</span><span class="sxs-lookup"><span data-stu-id="8df44-101">Microsoft Dynamics NAV Universal App</span></span>
+<span data-ttu-id="b1bbe-101">Microsoft Dynamics NAV Universal App</span><span class="sxs-lookup"><span data-stu-id="b1bbe-101">Microsoft Dynamics NAV Universal App</span></span>

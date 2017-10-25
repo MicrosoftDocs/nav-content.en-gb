@@ -1,1 +1,1 @@
-<span data-ttu-id="86bbc-101">development environment</span><span class="sxs-lookup"><span data-stu-id="86bbc-101">development environment</span></span>
+<span data-ttu-id="4a82a-101">development environment</span><span class="sxs-lookup"><span data-stu-id="4a82a-101">development environment</span></span>

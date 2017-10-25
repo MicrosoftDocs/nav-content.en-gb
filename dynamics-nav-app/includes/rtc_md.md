@@ -1,1 +1,1 @@
-<span data-ttu-id="ff55b-101">RoleTailored client</span><span class="sxs-lookup"><span data-stu-id="ff55b-101">RoleTailored client</span></span>
+<span data-ttu-id="c8596-101">RoleTailored client</span><span class="sxs-lookup"><span data-stu-id="c8596-101">RoleTailored client</span></span>

@@ -1,42 +1,46 @@
 ---
 title: Set Up Organisational Levels for Contact Persons
+description: You can define an organisational level and assign it to your contact to indicate the position they have in their company, for example, top management.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: cb816d906e6b2ee7e3cad7e95f5f8059f7a7be54
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, client, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: fe8554f0335ef332fc940d020c3f8441d8e1359d
 ms.contentlocale: en-gb
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-organizational-levels-for-contact-persons"></a><span data-ttu-id="e81a8-102">Set Up Organisational Levels for Contact Persons</span><span class="sxs-lookup"><span data-stu-id="e81a8-102">Set Up Organizational Levels for Contact Persons</span></span>
-<span data-ttu-id="e81a8-103">You can use organisational levels on your contacts to specify which position they have in the company, for example, top management.</span><span class="sxs-lookup"><span data-stu-id="e81a8-103">You can use organizational levels on your contacts to specify which position they have in the company, for example, top management.</span></span> <span data-ttu-id="e81a8-104">You can use this information when entering information about your contacts.</span><span class="sxs-lookup"><span data-stu-id="e81a8-104">You can use this information when entering information about your contacts.</span></span>
+# <a name="how-to-set-up-organizational-levels-for-contact-persons"></a><span data-ttu-id="6e41d-103">How to: Set Up Organisational Levels for Contact Persons</span><span class="sxs-lookup"><span data-stu-id="6e41d-103">How to: Set Up Organizational Levels for Contact Persons</span></span>
+<span data-ttu-id="6e41d-104">You can use organisational levels on your contacts to specify which position they have in the company, for example, top management.</span><span class="sxs-lookup"><span data-stu-id="6e41d-104">You can use organizational levels on your contacts to specify which position they have in the company, for example, top management.</span></span> <span data-ttu-id="6e41d-105">You can use this information when entering information about your contacts.</span><span class="sxs-lookup"><span data-stu-id="6e41d-105">You can use this information when entering information about your contacts.</span></span>
 
-<span data-ttu-id="e81a8-105">Using organisational levels on contacts is a two-step process.</span><span class="sxs-lookup"><span data-stu-id="e81a8-105">Using organizational levels on contacts is a two-step process.</span></span> <span data-ttu-id="e81a8-106">First, you define the organisational level code.</span><span class="sxs-lookup"><span data-stu-id="e81a8-106">First, you define the organizational level code.</span></span> <span data-ttu-id="e81a8-107">You only have to perform this step one time for each organisational level.</span><span class="sxs-lookup"><span data-stu-id="e81a8-107">You only have to perform this step one time for each organizational level.</span></span> <span data-ttu-id="e81a8-108">Once you have an organisational level code, you can start to assign the code to contact persons.</span><span class="sxs-lookup"><span data-stu-id="e81a8-108">Once you have an organizational level code, you can start to assign the code to contact persons.</span></span>
+<span data-ttu-id="6e41d-106">Using organisational levels on contacts is a two-step process.</span><span class="sxs-lookup"><span data-stu-id="6e41d-106">Using organizational levels on contacts is a two-step process.</span></span> <span data-ttu-id="6e41d-107">First, you define the organisational level code.</span><span class="sxs-lookup"><span data-stu-id="6e41d-107">First, you define the organizational level code.</span></span> <span data-ttu-id="6e41d-108">You only have to perform this step one time for each organisational level.</span><span class="sxs-lookup"><span data-stu-id="6e41d-108">You only have to perform this step one time for each organizational level.</span></span> <span data-ttu-id="6e41d-109">Once you have an organisational level code, you can start to assign the code to contact persons.</span><span class="sxs-lookup"><span data-stu-id="6e41d-109">Once you have an organizational level code, you can start to assign the code to contact persons.</span></span>
 
-## <a name="define-an-organizational-level-code"></a><span data-ttu-id="e81a8-109">Define an Organisational Level Code</span><span class="sxs-lookup"><span data-stu-id="e81a8-109">Define an Organizational Level Code</span></span>
-<span data-ttu-id="e81a8-110">The organisational level code defines the type or category of the organisational level, such a CEO  or CFO.</span><span class="sxs-lookup"><span data-stu-id="e81a8-110">The organizational level code defines the type or category of the organizational level, such a CEO  or CFO.</span></span> <span data-ttu-id="e81a8-111">You can have several organisational level codes.</span><span class="sxs-lookup"><span data-stu-id="e81a8-111">You can have several organizational level codes.</span></span> <span data-ttu-id="e81a8-112">To define the organisational level, you use the **Organisational Levels** window.</span><span class="sxs-lookup"><span data-stu-id="e81a8-112">To define the organizational level, you use the **Organizational Levels** window.</span></span>
+## <a name="to-define-an-organizational-level-code"></a><span data-ttu-id="6e41d-110">To define an organisational level code</span><span class="sxs-lookup"><span data-stu-id="6e41d-110">To define an organizational level code</span></span>
+<span data-ttu-id="6e41d-111">The organisational level code defines the type or category of the organisational level, such a CEO  or CFO.</span><span class="sxs-lookup"><span data-stu-id="6e41d-111">The organizational level code defines the type or category of the organizational level, such a CEO  or CFO.</span></span> <span data-ttu-id="6e41d-112">You can have several organisational level codes.</span><span class="sxs-lookup"><span data-stu-id="6e41d-112">You can have several organizational level codes.</span></span> <span data-ttu-id="6e41d-113">To define the organisational level, you use the **Organisational Levels** window.</span><span class="sxs-lookup"><span data-stu-id="6e41d-113">To define the organizational level, you use the **Organizational Levels** window.</span></span>
 
-1. <span data-ttu-id="e81a8-113">In the top right corner, choose the **Search for Page or Report** icon, enter **Organisational Levels**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="e81a8-113">In the top right corner, choose the **Search for Page or Report** icon, enter **Organizational Levels**, and then choose the related link.</span></span>
-2. <span data-ttu-id="e81a8-114">Choose the **New** action, and fill in a code and description.</span><span class="sxs-lookup"><span data-stu-id="e81a8-114">Choose the **New** action, and fill in a code and description.</span></span> <span data-ttu-id="e81a8-115">The code can be a maximum of 11 characters, and can be any combination of numbers and letters.</span><span class="sxs-lookup"><span data-stu-id="e81a8-115">The code can be a maximum of 11 characters, and can be any combination of numbers and letters.</span></span>
+1. <span data-ttu-id="6e41d-114">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Organizational Levels**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="6e41d-114">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Organizational Levels**, and then choose the related link.</span></span>
+2. <span data-ttu-id="6e41d-115">Choose the **New** action, and fill in a code and description.</span><span class="sxs-lookup"><span data-stu-id="6e41d-115">Choose the **New** action, and fill in a code and description.</span></span> <span data-ttu-id="6e41d-116">The code can be a maximum of 11 characters, and can be any combination of numbers and letters.</span><span class="sxs-lookup"><span data-stu-id="6e41d-116">The code can be a maximum of 11 characters, and can be any combination of numbers and letters.</span></span>
 
-## <a name="assign-organizational-levels-to-a-contact-person"></a><span data-ttu-id="e81a8-116">Assign Organisational Levels to a Contact Person</span><span class="sxs-lookup"><span data-stu-id="e81a8-116">Assign Organizational Levels to a Contact Person</span></span>
-<span data-ttu-id="e81a8-117">You can assign organisational levels to contact persons only, not contact companies.</span><span class="sxs-lookup"><span data-stu-id="e81a8-117">You can assign organizational levels to contact persons only, not contact companies.</span></span> <span data-ttu-id="e81a8-118">You can only assign one organisational level to each contact.</span><span class="sxs-lookup"><span data-stu-id="e81a8-118">You can only assign one organizational level to each contact.</span></span>
+## <a name="to-assign-organizational-levels-to-a-contact-person"></a><span data-ttu-id="6e41d-117">To assign organisational levels to a contact person</span><span class="sxs-lookup"><span data-stu-id="6e41d-117">To assign organizational levels to a contact person</span></span>
+<span data-ttu-id="6e41d-118">You can assign organisational levels to contact persons only, not contact companies.</span><span class="sxs-lookup"><span data-stu-id="6e41d-118">You can assign organizational levels to contact persons only, not contact companies.</span></span> <span data-ttu-id="6e41d-119">You can only assign one organisational level to each contact.</span><span class="sxs-lookup"><span data-stu-id="6e41d-119">You can only assign one organizational level to each contact.</span></span>
 
-1. <span data-ttu-id="e81a8-119">Open the contact.</span><span class="sxs-lookup"><span data-stu-id="e81a8-119">Open the contact.</span></span>
-2. <span data-ttu-id="e81a8-120">In the **Organisational Levels** field, select the code you want to assign.</span><span class="sxs-lookup"><span data-stu-id="e81a8-120">In the **Organizational Levels** field, select the code you want to assign.</span></span>
+1. <span data-ttu-id="6e41d-120">Open the contact.</span><span class="sxs-lookup"><span data-stu-id="6e41d-120">Open the contact.</span></span>
+2. <span data-ttu-id="6e41d-121">In the **Organisational Levels** field, select the code you want to assign.</span><span class="sxs-lookup"><span data-stu-id="6e41d-121">In the **Organizational Levels** field, select the code you want to assign.</span></span>
 
-<span data-ttu-id="e81a8-121">After you have assigned organisational levels to your contacts, you can use this information to create segments.</span><span class="sxs-lookup"><span data-stu-id="e81a8-121">After you have assigned organizational levels to your contacts, you can use this information to create segments.</span></span>
+<span data-ttu-id="6e41d-122">After you have assigned organisational levels to your contacts, you can use this information to create segments.</span><span class="sxs-lookup"><span data-stu-id="6e41d-122">After you have assigned organizational levels to your contacts, you can use this information to create segments.</span></span>
 
-<span data-ttu-id="e81a8-122">After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments.</span><span class="sxs-lookup"><span data-stu-id="e81a8-122">After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments.</span></span> <span data-ttu-id="e81a8-123">For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).</span><span class="sxs-lookup"><span data-stu-id="e81a8-123">For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).</span></span>
+<span data-ttu-id="6e41d-123">After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments.</span><span class="sxs-lookup"><span data-stu-id="6e41d-123">After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments.</span></span> <span data-ttu-id="6e41d-124">For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).</span><span class="sxs-lookup"><span data-stu-id="6e41d-124">For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).</span></span>
 
-##<a name="see-also"></a><span data-ttu-id="e81a8-124">See Also</span><span class="sxs-lookup"><span data-stu-id="e81a8-124">See Also</span></span>
-[<span data-ttu-id="e81a8-125">Create Contact Companies</span><span class="sxs-lookup"><span data-stu-id="e81a8-125">Create Contact Companies</span></span>](marketing-create-contact-companies.md)  
-[<span data-ttu-id="e81a8-126">Create Contact Persons</span><span class="sxs-lookup"><span data-stu-id="e81a8-126">Create Contact Persons</span></span>](marketing-create-contact-persons.md)  
+## <a name="see-also"></a><span data-ttu-id="6e41d-125">See Also</span><span class="sxs-lookup"><span data-stu-id="6e41d-125">See Also</span></span>
+[<span data-ttu-id="6e41d-126">Creating Contact Companies</span><span class="sxs-lookup"><span data-stu-id="6e41d-126">Creating Contact Companies</span></span>](marketing-create-contact-companies.md)  
+[<span data-ttu-id="6e41d-127">Creating Contact Persons</span><span class="sxs-lookup"><span data-stu-id="6e41d-127">Creating Contact Persons</span></span>](marketing-create-contact-persons.md)  
+<span data-ttu-id="6e41d-128">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="6e41d-128">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
