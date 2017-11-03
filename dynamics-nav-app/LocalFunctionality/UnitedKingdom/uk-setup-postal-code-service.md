@@ -11,10 +11,10 @@ ms.search.keywords: getaddress.io, postcodes, extension
 ms.date: 07/17/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3cae9576d5c706ae346e15335494e5c38ee593a8
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cb9fef0311d1a10bc7b179bd5da86c5c6c90ffb2
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-the-getaddressio-uk-postcodes-extension"></a>How to: Set Up the GetAddress.io UK Postcodes Extension
@@ -34,7 +34,7 @@ The GetAddress.io UK Postcodes extension uses the getAddress API to find address
 
 6. Purchase a plan, or just choose **Get API Key**, and then provide your email address.
 7. Open the email from getAddress.io, and copy the API key. The key is under the **Your API Key** heading.
-8. In the **GetAddress.io Config** window, paste the API key in the **API Key** field, and then choose **OK**.
+8. In the **GetAddress.io Config** window, paste the API key in the **API Key** field, and then Choose the **OK** button.
 9. In the **Service Connections** page, verify that the **Address Provider** field shows **GetAddress.io**. If it does, the service is enabled.
 
 ## <a name="see-also"></a>See Also
