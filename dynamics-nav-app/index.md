@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -67,3 +67,4 @@ To create a company to try things out, go to the **My Settings** menu in the top
 [Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)  
 [Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as my Business Inbox in Outlook](madeira-outlook.md)  
 [Getting [!INCLUDE[d365fin](includes/d365fin_md.md)] on Your Mobile Device](install-mobile-app.md)  
+
