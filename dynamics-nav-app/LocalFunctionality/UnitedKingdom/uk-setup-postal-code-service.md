@@ -2,7 +2,7 @@
 title: 'How to: Set Up the GetAddress.io UK Postcodes Extension'
 description: Describes the general functionality you use to interact with data in Dynamics NAV, such as entering values, sorting data, and changing views.
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: getaddress.io, postcodes, extension
 ms.date: 07/17/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: cb9fef0311d1a10bc7b179bd5da86c5c6c90ffb2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 26997b8b1a83213998c0592b710a24a5f018fb91
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-the-getaddressio-uk-postcodes-extension"></a><span data-ttu-id="0753d-103">How to: Set Up the GetAddress.io UK Postcodes Extension</span><span class="sxs-lookup"><span data-stu-id="0753d-103">How to: Set Up the GetAddress.io UK Postcodes Extension</span></span>

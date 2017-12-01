@@ -2,7 +2,7 @@
 title: United Kingdom Local Functionality
 description: Get an overview of local functionality in the United Kingdom version of [!INCLUDE[navnow](../../includes/navnow_md.md)].
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/17/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 36725a95117a784ea7fb1dfcccc7104403df93bd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d0ae7ed417baa2487679839a369729d9ddd57830
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="united-kingdom-local-functionality"></a><span data-ttu-id="cdc0e-103">United Kingdom Local Functionality</span><span class="sxs-lookup"><span data-stu-id="cdc0e-103">United Kingdom Local Functionality</span></span>

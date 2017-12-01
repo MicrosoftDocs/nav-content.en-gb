@@ -2,7 +2,7 @@
 title: How to Print Remittance Advice
 description: You can print remittance advice before posting a payment journal and after posting a payment. This advice displays vendor invoice numbers, which helps vendors to perform reconciliations.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c5107f8653b4d5a58a481d3a6e22fcbc985f42c6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e2e4553505af78ca89ffeca9df5fc461b401c639
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-remittance-advice"></a><span data-ttu-id="b4026-104">How to: Print Remittance Advice</span><span class="sxs-lookup"><span data-stu-id="b4026-104">How to: Print Remittance Advice</span></span>

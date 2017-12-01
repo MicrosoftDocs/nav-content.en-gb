@@ -2,7 +2,7 @@
 title: How to Set Up Reverse Charges on VAT
 description: Learn how you can use reverse charge VAT accounting for a specific range of items to prevent Missing Trader Intercommunity Fund Fraud (MTIC).
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/17/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fbc491764a4ef363967ca964f8d50f7f5ca747e8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: beb3806bd2534f09ef81ca69249bf75bbb2fd3dd
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-multiple-interest-rates"></a><span data-ttu-id="92fd0-103">How to: Set Up Multiple Interest Rates</span><span class="sxs-lookup"><span data-stu-id="92fd0-103">How to: Set Up Multiple Interest Rates</span></span>

@@ -2,7 +2,7 @@
 title: How to Change VAT Setup in Journals
 description: You can add VAT setup information to journal lines if needed. If you enter items without VAT, you do not need to remove VAT setup information manually.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 53d0e9aeba6b0cc8922980e74b89432602b8f587
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: aeb98baa4c106ab00479eea6acb776bde9f04c22
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-change-vat-setup-in-journals"></a><span data-ttu-id="254bc-104">How to: Change VAT Setup in Journals</span><span class="sxs-lookup"><span data-stu-id="254bc-104">How to: Change VAT Setup in Journals</span></span>

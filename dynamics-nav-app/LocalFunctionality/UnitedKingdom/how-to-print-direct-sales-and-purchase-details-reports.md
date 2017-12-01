@@ -2,7 +2,7 @@
 title: How to Print Direct Sales and Purchase Details Reports
 description: The **Direct Sales Details** and **Direct Purchase Details** reports include headers with order numbers and descriptions from sales and purchase documents.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6692aa9a96785584dcf30baaec9c8a09a9df8c10
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7bb8bb6406a2ddd2e379c83a3752c66f6af1b65d
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-direct-sales-and-purchase-details-reports"></a><span data-ttu-id="91821-103">How to: Print Direct Sales and Purchase Details Reports</span><span class="sxs-lookup"><span data-stu-id="91821-103">How to: Print Direct Sales and Purchase Details Reports</span></span>

@@ -2,7 +2,7 @@
 title: How to Set Up Multiple Interest Rates
 description: You can calculate finance charges with multiple interest rates for a specific period. The interest calculation is similar for all financial charges, with variation only in the rate of interest for a specific period.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 757d8c3bc9e7a4e7a1f0e7c7307135bedfd42499
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1ff80c854a7146807fc3a886a5648bf118a604ee
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-multiple-interest-rates"></a><span data-ttu-id="c7d32-104">How to: Set Up Multiple Interest Rates</span><span class="sxs-lookup"><span data-stu-id="c7d32-104">How to: Set Up Multiple Interest Rates</span></span>

@@ -2,7 +2,7 @@
 title: How to Enter External Document Numbers
 description: You can enter external document numbers for customers and vendors in all sales and purchase orders, invoices, and credit memos. You can use these numbers to search for posted sales and purchase lines later.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5246d5c7364c234566e2b1870e6964fa37aebb4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9b9a526f12fd9cfc67ed83a84781f956ab6a4d4b
 ms.contentlocale: en-gb
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enter-external-document-numbers"></a><span data-ttu-id="c05bb-104">How to: Enter External Document Numbers</span><span class="sxs-lookup"><span data-stu-id="c05bb-104">How to: Enter External Document Numbers</span></span>
