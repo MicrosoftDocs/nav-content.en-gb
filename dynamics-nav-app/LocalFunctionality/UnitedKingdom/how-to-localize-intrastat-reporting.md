@@ -2,7 +2,7 @@
 title: How to Localise Intrastat Reporting
 description: You must localize Intrastat reporting to be legally compliant. The code for the shipment method must be transferred from the Intrastat journal.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

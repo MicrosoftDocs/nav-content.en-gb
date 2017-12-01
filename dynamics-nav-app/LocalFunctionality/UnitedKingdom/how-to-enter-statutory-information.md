@@ -2,7 +2,7 @@
 title: How to Enter Statutory Information
 description: To comply with legal requirements, statutory information is available on the **Statutory** FastTab in the **Company Information** window.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
